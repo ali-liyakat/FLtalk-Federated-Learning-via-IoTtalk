@@ -1,0 +1,10 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Dataset folder
+Dataset/
+
+# Ignore all CSV files anywhere in the project
+*.csv
